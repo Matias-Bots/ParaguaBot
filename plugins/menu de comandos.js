@@ -10,7 +10,7 @@ let mentionedJid = [who]
 let username = conn.getName(who)
 let pp = 'https://i.imgur.com/BfsbCOR.jpg'
 let menu =`
-╔══〘 🤑⚡️🤑⚡️🤑⚡️🤑 〙═══╗
+╔══〘 ░★░░★░░★░ 〙══╗
 ║  𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 | 𝑷𝑨𝑹𝑨𝑮𝑼𝑨
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║🔥*¡𝗛ola! ${username}* 🔥
@@ -18,7 +18,7 @@ let menu =`
 ║🔰 *Creadora: GATA BOT*
 ║💀 *Propietario: 𝙿𝙰𝚁𝙰𝙶𝚄𝙰*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-╚═〘 🤑⚡️🤑⚡️🤑⚡️🤑 〙════╝
+╚═〘 ░★░░★░░★░ 〙═══╝
 ╔─━━━━━━░★░━━━━━━─╗
 ┃ *INFORMACIÓN|MENUS*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
@@ -34,13 +34,13 @@ let menu =`
 ┣ ↠⚜️ _Codigos para audios_
 ┣ ↠⚜️ _Términos y condiciones_
 ╚─━━━━━━░★░━━━━━━─╝
-┏━━━━━━━━━━━━━━━━━━┓
+╔─━━━━━━░★░━━━━━━─╗
 ┃ *CUENTAS OFICIALES GATABOT*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ↠✅ _${usedPrefix}cuentasgatabot_
 ┣ ↠✅ _${usedPrefix}cuentasgb_
 ┗━━━━━━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━━━━━━┓
+╔─━━━━━━░★░━━━━━━─╗
 ┃ *OBTENER A GATABOT*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ↠🛎 _${usedPrefix}instalarbot_
