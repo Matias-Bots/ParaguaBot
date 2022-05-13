@@ -18,7 +18,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let { min, xp, max } = levelling.xpRange(level, global.multiplier)
     let username = conn.getName(who)
     let str = `
-╭══〘 🐈⚡️🐈⚡️🐈⚡️🐈 〙══╮
+╭══〘 ☆☆☆☆☆☆☆☆☆ 〙══╮
 ║═     𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║❇️ *¡𝗛ola! ${username}* ❇️
@@ -27,7 +27,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ║💀 *Propietario: 𝙿𝙰𝚁𝙰𝙶𝚄𝙰*
 ║🔥 *Chat del propietario:* wa.me/595985958156
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-╰══〘 🐈⚡️🐈⚡️🐈⚡️🐈 〙══╯
+╰══〘 ☆☆☆☆☆☆☆☆☆ 〙══╯
 ┏━━━━━━━━━━━━━━━━━━┓
 ┃ *INFORMACIÓN | MENU SIMPLE*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
