@@ -10,10 +10,11 @@ let mentionedJid = [who]
 let username = conn.getName(who)
 let pp = 'https://i.imgur.com/BfsbCOR.jpg'
 let menu =`
-╭━〘 🐈⚡️🐈⚡️🐈⚡️🐈⚡️🐈 〙━╮
- ‖ ֎┉┉┉⊰ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ⊱┉┉┉֍
+ ╔─━━━━━━░★░━━━━━━─╗
+ ‖ ֎┉┉┉⊰ 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 ⊱┉┉┉֍
  ‖ 💖 *¡𝗛ola! ${username}* 💖
- ‖    ֎┉┉┉┉┉┉⊰ 🌟 ⊱┉┉┉┉┉┉┉֍
+ ‖ 🔥 *Chat del propietario:* wa.me/595985958156
+ ‖ ֎┉┉┉┉┉┉⊰ 🌟 ⊱┉┉┉┉┉┉┉֍
  ‖
  ‖⇛ 🎨 _${usedPrefix}s_
  ‖⇛ 🎨 _${usedPrefix}sticker_
@@ -56,10 +57,10 @@ let menu =`
  ‖⇛ 🎨 _${usedPrefix}vibracion *cantidad*_
  ‖⇛ 🎨 _${usedPrefix}tovn *audio a nota de voz*
  ‖ ➥ ⧼ *_MENÚ DE CREACIÓN_* ⧽ 
-╰━〘 🐈🌟🐈🌟🐈🌟🐈🌟🐈 〙━╯
-𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨`.trim()
+ ╚─━━━━━━░★░━━━━━━─╝
+𝑷𝑨𝑹𝑨𝑮𝑼𝑨`.trim()
 conn.send3ButtonLoc(m.chat, (await fetch(pp)).buffer(), `
-⁖ᯓ፨҈༺ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ༻፨҈ᯓ⁖
+⁖ᯓ፨҈༺ 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻  | 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 ༻፨҈ᯓ⁖
 `.trim(), menu, '💥 𝘼𝙉𝙄𝙈𝙀/𝙍𝘼𝙉𝘿𝙊𝙈 💥', `#menurandom`, '🔞 𝙈𝙀𝙉𝙐 +18 🔞', `#labiblia`, '🔊 𝙈𝙀𝙉𝙐 𝘿𝙀 𝘼𝙐𝘿𝙄𝙊𝙎 🔊', `#menuaudio`, m, false, { contextInfo: { mentionedJid }})}
 
 handler.command = /^(menucreador|menucreacion|Menucreador|Menucreacion|Menúcreador|Menúcreacion|menúcreacion|menúcreador)$/i
