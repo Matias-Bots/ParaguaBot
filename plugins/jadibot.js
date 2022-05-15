@@ -19,7 +19,7 @@ let handler  = async (m, { conn, args, usedPrefix, command }) => {
       auth = true
     }
     conn.on('qr', async qr => {
-      let scan = await parent.sendFile(m.chat, await qrcode.toDataURL(qr, { scale: 8 }), 'qrcode.png', '🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈\n 𝙎𝙪𝙗 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 🤖 \n\n*➡️ Con otro celular o en la PC escanea este QR para convertirte en un sub bot*\n\n*1️⃣ Haga clic en los tres puntos en la esquina superior derecha*\n*2️⃣ Toca WhatsApp Web*\n*3️⃣ Escanee este codigo QR*\n*¡Este código QR expira en 20 segundos!*\n\n*❰ ⚠️ ❱ No nos hacemos responsable del mal uso que se le puedas dar o si el numero se manda a soporte. Tampoco somos responsables de que su número pueda ser añadido en otros grupos, o su número pueda ser público. Al ser Sub Bot no tenemos control sobre usted. Tienen el deber se seguir al pie de la letra los terminos y condiciones y privacidad Escribe "Términos y condiciones" Gracias*', m)
+      let scan = await parent.sendFile(m.chat, await qrcode.toDataURL(qr, { scale: 8 }), 'qrcode.png', '🇵🇾 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 🇵🇾\n 𝙎𝙪𝙗 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 🤖 \n\n*➡️ Con otro celular o en la PC escanea este QR para convertirte en un sub bot*\n\n*1️⃣ Haga clic en los tres puntos en la esquina superior derecha*\n*2️⃣ Toca WhatsApp Web*\n*3️⃣ Escanee este codigo QR*\n*¡Este código QR expira en 20 segundos!*\n\n*❰ ⚠️ ❱ No nos hacemos responsable del mal uso que se le puedas dar o si el numero se manda a soporte. Tampoco somos responsables de que su número pueda ser añadido en otros grupos, o su número pueda ser público. Al ser Sub Bot no tenemos control sobre usted. Tienen el deber se seguir al pie de la letra los terminos y condiciones y privacidad Escribe "Términos y condiciones" Gracias*', m)
       setTimeout(() => {
         parent.deleteMessage(m.chat, scan.key)
       }, 30000)
@@ -36,9 +36,9 @@ let handler  = async (m, { conn, args, usedPrefix, command }) => {
     conn.on('group-participants-update', conn.onParticipantsUpdate)
     conn.regenerateQRIntervalMs = null
     conn.connect().then(async ({user}) => {
-      parent.reply(m.chat, '✅ *Conectado exitosamente con WhatsApp*\n*Nota: Esto es temporal*\n*GataBot se reinicia constantemente, tal que todos los sub bots tambien lo haran*\n\n' + JSON.stringify(user, null, 2), m)
+      parent.reply(m.chat, '✅ *Conectado exitosamente con WhatsApp*\n*Nota: Esto es temporal*\n*ParaguaBot se reinicia constantemente, tal que todos los sub bots tambien lo haran*\n\n' + JSON.stringify(user, null, 2), m)
       if (auth) return
-      await parent.sendMessage(user.jid, `*Inicia sesión sin el codigo QR con el siguiente mensaje, envialo para reconectar con GataBot y/o diga conexion perdida...*\n\n*Puede obtener nuevamente este código QR con col comando #getcode, debe se seguir siendo sub bot para poder recibirlo*`, MessageType.extendedText)
+      await parent.sendMessage(user.jid, `*Inicia sesión sin el codigo QR con el siguiente mensaje, envialo para reconectar con ParaguaBot y/o diga conexion perdida...*\n\n*Puede obtener nuevamente este código QR con col comando #getcode, debe se seguir siendo sub bot para poder recibirlo*`, MessageType.extendedText)
       parent.sendMessage(user.jid, `${usedPrefix + command} ${Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString('base64')}`, MessageType.extendedText)
     })
     setTimeout(() => {
@@ -63,7 +63,7 @@ let handler  = async (m, { conn, args, usedPrefix, command }) => {
       }, 30000)
     })
     global.conns.push(conn)
-  } else throw '*「 🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈 」*\n\n*❰ ⚠️ ❱ No se puede hacer un bot dentro de un sub bot!*\n*✳️ Use el comando #jadibot al numero oficial/principal de GataBot*\n\n*👉 https://wa.me/' + global.conn.user.jid.split`@`[0] + '?text=#jadibot*\n\n*「 🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈 」*'
+  } else throw '*「 🇵🇾 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 🇵🇾 」*\n\n*❰ ⚠️ ❱ No se puede hacer un bot dentro de un sub bot!*\n*✳️ Use el comando #jadibot al numero oficial/principal de ParaguaBot*\n\n*👉 https://wa.me/595986731337' + global.conn.user.jid.split`@`[0] + '?text=#jadibot*\n\n*「 🇵🇾 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 🇵🇾 」*'
 }
 handler.help = ['jadibot']
 handler.tags = ['jadibot']
