@@ -1,11 +1,11 @@
 let handler = async m => m.reply(`
-✅ 𝘾𝙐𝙀𝙉𝙏𝘼𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 𝙂𝘼𝙏𝘼𝘽𝙊𝙏 ✅
+✅ 𝘾𝙐𝙀𝙉𝙏𝘼𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 ✅
 
 *Hola, los números Oficiales de GataBot son:*
 
-🐈 *GataBot ~ Wa.me/593993684821*
+🐈 *ParaguaBot ~ Wa.me/595986731337*
 
-👆 _Para saber si GataBot está Activada escriba #estado_
+👆 _Para saber si ParaguaBot está Activada escriba #estado_
 
 👆 _Para ver el menú escriba #menu_
 
@@ -13,28 +13,21 @@ let handler = async m => m.reply(`
 
 👆 _Puedes hacer una solicitud para que los Bots Oficiales se unan diciendo #unete enlace del grupo_
 
-👆 _Puedes Instalar a GataBot diciendo #instalarbot y #procesobot_
+👆 _Puedes Instalar a ParaguaBot diciendo #instalarbot y #procesobot_
 
 _________________________________________________
 
-*GRUPO OFICIAL GATABOT*
-*https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW*
-
-*GRUPO OFICIAL GATABOT #2*
-*https://chat.whatsapp.com/JFTOYLdpiTBCluFJvikBxN*
+*GRUPO OFICIAL PARAGUA-BOT*
+*https://chat.whatsapp.com/B8I8Ga3OlC9H4OWs7EqEOP*
 
 _________________________________________________
 
-*INFORMATE EN INSTAGRAM*
-
-*https://instagram.com/gata_dios*
-👆 _Solo escríbeme para temas relacionados a GataBot_
 
 _________________________________________________
 
 *CANAL OFICIAL DE YOUTUBE*
 
-*https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA*
+*https://youtube.com/channel/UCqlwRHdZRZZpk4gpaoeH4_w*
 
 _________________________________________________
 
@@ -45,14 +38,14 @@ _________________________________________________
 _________________________________________________
 
 ⚠️ *Los Bots Oficiales son temporales en grupos, es preferible que sea Bot o instalar a GataBot* ⚠️
-                            🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈                    
+                            🇵🇾 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 🇵🇾                    
 `.trim()) 
-//😸 *Gata Dios ~ https://wa.me/message/XBTGQ4NYEWM7O1*
-//*Número de la Creadora (NO BOT)*
+//👽 *ParaguaBot ~ https://wa.me/595985958156*
+//*Número del propietario (NO BOT)*
 
-//😸 *Gata Dios ~ https://wa.me/message/XBTGQ4NYEWM7O1*
+//👽 *ParaguaBot ~ https://wa.me/595986731337*
 
-//👆 _Solo escríbeme para temas relacionados a GataBot_
+//👆 _Solo escríbeme para temas relacionados a ParaguaBot_
 //_________________________________________________
 handler.help = ['instalarbot']
 handler.tags = ['info']
