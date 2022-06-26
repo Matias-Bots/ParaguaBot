@@ -16,8 +16,6 @@
 <a href="https://www.instagram.com/matiass.zzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p> 
 
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA)
 
 ###### 👇 Si tiene dudas 
 #### 💚 *CONTACTO 1* 
@@ -28,11 +26,6 @@
 [![blog](https://img.shields.io/badge/ParaguaBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R) 
 
-
-#### 🎥 *VÍDEO DE INSTALACIÓN*
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/85xI8WFMIUY)
---------- 
  
 ### ✅ DEBE DE TENER A SU DISPOSICIÓN: 
 
