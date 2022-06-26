@@ -22,7 +22,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 🍃 *_Para ver el menú de comandos puedes usar:_*
 #menu
 
-🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈`.trim()
+𝑷𝑨𝑹𝑨𝑮𝑼𝑨 - 𝑩𝑶𝑻.trim()
     let mentionedJid = [who]
     conn.sendFile(m.chat, pp, 'lp.jpeg', str, m, false, { contextInfo: { mentionedJid }})
   }
