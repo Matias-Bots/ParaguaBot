@@ -20,8 +20,8 @@ let handler = async (m, { conn, participants, args }) => {
     let pesan = args.join` `
     let oi = `*MENSAJE:* ${pesan}`
     let hmm = `*💥 I N V O C A R - G R U P O 💥*\n\n`
-    let duh = `🐱\n\n*▌│█║▌║▌║║▌║▌║▌║█*\n               🇵🇾 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 🇵🇾
-       var teks = `${oi}\n\n🐱\n`
+    let duh = `\n\n*▌│█║▌║▌║║▌║▌║▌║█*\n               𝑷𝑨𝑹𝑨𝑮𝑼𝑨 - 𝑩𝑶𝑻
+       var teks = `${oi}\n\n\n`
     for (let admon of groupMembers) {
         teks += ` ┣↬ @${admon.jid.split('@')[0]}\n`
     }
