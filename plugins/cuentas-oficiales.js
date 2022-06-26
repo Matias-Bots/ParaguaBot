@@ -1,11 +1,11 @@
 let handler = async m => m.reply(`
-✅ 𝘾𝙐𝙀𝙉𝙏𝘼𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 ✅
+*_CUENTAS OFC DE PARAGUA - BOT_*
 
-*Hola, los números Oficiales de GataBot son:*
+*Hola, los números Oficiales de Paragua - Bot son:*
 
-🐈 *ParaguaBot ~ Wa.me/595986731337*
+🐈 *Paragua - Bot ~ Wa.me/595986731337*
 
-👆 _Para saber si ParaguaBot está Activada escriba #estado_
+👆 _Para saber si Paragua - Bot está Activada escriba #estado_
 
 👆 _Para ver el menú escriba #menu_
 
@@ -18,34 +18,19 @@ let handler = async m => m.reply(`
 _________________________________________________
 
 *GRUPO OFICIAL PARAGUA-BOT*
-*https://chat.whatsapp.com/B8I8Ga3OlC9H4OWs7EqEOP*
-
+*https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R*
 _________________________________________________
 
 
-_________________________________________________
-
-*CANAL OFICIAL DE YOUTUBE*
-
-*https://youtube.com/channel/UCqlwRHdZRZZpk4gpaoeH4_w*
-
-_________________________________________________
-
-*GITHUB*
-
-*https://github.com/GataNina-Li/GataBotV2*
-
-_________________________________________________
-
-⚠️ *Los Bots Oficiales son temporales en grupos, es preferible que sea Bot o instalar a GataBot* ⚠️
+⚠️ *Los Bots Oficiales son temporales en grupos, es preferible que sea Bot o instalar a Paragua - Bot* ⚠️
                             🇵🇾 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 🇵🇾                    
 `.trim()) 
 //👽 *ParaguaBot ~ https://wa.me/595985958156*
 //*Número del propietario (NO BOT)*
 
-//👽 *ParaguaBot ~ https://wa.me/595986731337*
+//👽 *Paragua - Bot ~ https://wa.me/595986731337*
 
-//👆 _Solo escríbeme para temas relacionados a ParaguaBot_
+//👆 _Solo escríbeme para temas relacionados a Paragua - Bot_
 //_________________________________________________
 handler.help = ['instalarbot']
 handler.tags = ['info']
