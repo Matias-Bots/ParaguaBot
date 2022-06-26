@@ -106,7 +106,7 @@ y el Whatsapp que este usando. Lo aconsejable es máximo 45 grupos
  
 ### 🌟 AGRADECIMIENTOS
  
-[![GataNina](https://github.com/GataNina-Li.png?size=100)]
+[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)]
 (https://github.com/GataNina-Li)
 [![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
