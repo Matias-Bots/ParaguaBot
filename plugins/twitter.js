@@ -24,7 +24,7 @@ let handler = async (m, { usedPrefix, command, conn, args }) => {
 📎 *Link:* ${ress.link}
 
 🎦 *Formato:* ${ress.mime}
-🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈
+𝑷𝑨𝑹𝑨𝑮𝑼𝑨 - 𝑩𝑶𝑻
 `.trim(), m)
 }
 handler.help = ['twitter'].map(v => v + ' <url>')
