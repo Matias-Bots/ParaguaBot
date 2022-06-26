@@ -13,7 +13,7 @@
 </p> 
 
 <p align="center">   
-<a href="https://instagram.com/gata_dios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/matiass.zzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p> 
 
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
@@ -28,9 +28,6 @@
 [![blog](https://img.shields.io/badge/ParaguaBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R) 
 
-#### 🌱 *INSTAGRAM*  
-[![blog](https://img.shields.io/badge/Matias-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://www.instagram.com/matiass.zzz)
 
 #### 🎥 *VÍDEO DE INSTALACIÓN*
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
