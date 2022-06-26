@@ -46,11 +46,11 @@ let handler = async (m, { conn, usedPrefix }) => {
   let totaljadibot = [...new Set([...global.conns.filter(conn => conn.user && conn.state !== 'close').map(conn => conn.user)])]
   let speed = neww - old
   let info = `
-╠══〘 *INFORMACIÓN DEL BOT* 〙 ══ 🌸
+╠══〘 *INFORMACIÓN DEL BOT* 〙 ══ ⭐
 ╠
-╠➥ [😸] Creadora del Bot: 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨
-╠➥ [😼] Nombre del Bot: 𝙂𝙖𝙩𝙖𝘽𝙤𝙩
-╠➥ [#️⃣] Número: wa.me/593968585383
+╠➥ [😈] Propietario del Bot: 𝑴𝒂𝒕𝒊𝒂𝒔
+╠➥ [➡️] Nombre del Bot: 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 - 𝑩𝑶𝑻
+╠➥ [#️⃣] Número: wa.me/595985958156
 ╠➥ [🌐] Navegador: *${conn.browserDescription[1]}*
 ╠➥ [✅] version: *${conn.browserDescription[2]}*
 ╠➥ [⚙️] Prefijo: *${usedPrefix}*
@@ -65,7 +65,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ╠➥ [🪀] version de WhatsApp: *${conn.user.phone.wa_version}*
 ╠➥ [🤖] Bots secundarios activos: *${totaljadibot.length}*
 ╠
-╠══════〘 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 〙 ═════ 🌸
+╠══════〘 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 - 𝑩𝑶𝑻 〙 ═════ ⭐
 `.trim() 
   conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈*', 'status@broadcast')
 }
