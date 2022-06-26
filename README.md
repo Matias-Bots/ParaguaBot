@@ -1,4 +1,4 @@
-# 𝙂𝙖𝙩𝙖𝘽𝙤𝙩
+# 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 - 𝑩𝑶𝑻
 
 <p align="center"> 
 <img src="https://i.pinimg.com/originals/67/40/8a/67408ab5444616b71968475001f18e88.gif" alt="gif" width="500" height="279"/> 
@@ -7,9 +7,9 @@
 ## ¡Hola! Bienvenido(a) a este repositorio ☘ me podrias apoyar con una ⭐️ ¡Gracias! 
 
 <p align="center">   
-<a href="https://github.com/GataNina-Li/GataBotV2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBotV2?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBotV2/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GataNina-Li/GataBotV2?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBotV2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataNina-Li/GataBotV2?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/GataDios/GataBotV2"><img title="Forks" src="https://img.shields.io/github/forks/GataDios/GataBotV2?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/GataDios/GataBotV2"><img title="Watchers" src="https://img.shields.io/github/watchers/GataDios/GataBotV2?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/GataDios/GataBotV2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataDios/GataBotV2?label=Stars&color=yellow&style=flat-square"></a>
 </p> 
 
 <p align="center">   
@@ -45,7 +45,7 @@
 --------- 
 
 ### ⚙️ AJUSTES
-- CAMBIAR NÚMERO DE LA PROPIETARIA [Aquí](https://github.com/GataNina-Li/GataBotV2/edit/master/config.js)
+- CAMBIAR NÚMERO DE LA PROPIETARIA [Aquí](https://github.com/GataDios/GataBotV2/edit/master/config.js)
 --------- 
 
 ### 📎 COMANDOS DE INSTALACIÓN PARA TERMUX
@@ -57,7 +57,7 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/GataNina-Li/GataBotV2
+> git clone https://github.com/GataDios/GataBotV2
 > cd GataBotV2
 > ls
 > npm install
@@ -105,7 +105,7 @@ y el Whatsapp que este usando. Lo aconsejable es máximo 45 grupos
 --------- 
 ###  PROPIETARIO 
  
-[![Matias](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+[![Matias](https://github.com/GataDios.png?size=100)](https://github.com/GataDios) 
  
 ### 🌟 AGRADECIMIENTOS
  
