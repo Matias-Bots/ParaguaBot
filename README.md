@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/67/40/8a/67408ab5444616b71968475001f18e88.gif" alt="gif" width="500" height="279"/> 
 </p> 
   
-## ¡Hola! Bienvenido(a) 😸 a este repositorio ☘ me podrias apoyar con una ⭐️ ¡Gracias! 
+## ¡Hola! Bienvenido(a) a este repositorio ☘ me podrias apoyar con una ⭐️ ¡Gracias! 
 
 <p align="center">   
 <a href="https://github.com/GataNina-Li/GataBotV2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBotV2?label=Forks&color=blue&style=flat-square"></a>
@@ -29,7 +29,7 @@
 )](https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R) 
 
 #### 🌱 *INSTAGRAM*  
-[![blog](https://img.shields.io/badge/GataBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+[![blog](https://img.shields.io/badge/Matias-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://www.instagram.com/matiass.zzz)
 
 #### 🎥 *VÍDEO DE INSTALACIÓN*
