@@ -222,7 +222,7 @@ let menu =`
 ╔─━━━━━━░★░━━━━━━─╗
 ┃ *SUBIR ESTADOS A PARAGUA BOT*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃ *¡Sube estados a la cuenta de GataBot!*
+┃ *¡Sube estados a la cuenta de Paragua Bot!*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ↠📸 _${usedPrefix}subirestado *texto / video|imagen*_
 ┣ ↠📸 _${usedPrefix}subirestado *texto / gif*_
