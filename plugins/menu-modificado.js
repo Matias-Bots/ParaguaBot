@@ -6,12 +6,11 @@ let username = conn.getName(who)
 let pp = 'https://i.imgur.com/BfsbCOR.jpg'
 let menu =`
 ╭══〘 ☆☆☆☆☆☆☆☆☆☆ 〙══╮
-║═ 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻  | 𝑷𝑨𝑹𝑨𝑮𝑼𝑨
+║═     𝑷𝑨𝑹𝑨𝑮𝑼𝑨 - 𝑩𝑶𝑻
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║❇️ *¡𝗛ola! ${username}* ❇️
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║🔰 *Creadora: Gata Dios* 
-║💀 *Propietario: 𝙿𝙰𝚁𝙰𝙶𝚄𝙰*
+║💀 *Propietario: Matias*
 ║🔥 *Chat del propietario:* wa.me/595985958156
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══〘 ☆☆☆☆☆☆☆☆☆☆ 〙══╯
@@ -31,7 +30,7 @@ let menu =`
 ┣ ↠⚜️ _Términos y condiciones_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
-┃ *OBTENER A GATABOT*
+┃ *OBTENER A PARAGUA BOT*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ↠🛎 _${usedPrefix}instalarbot_
 ┣ ↠🛎 _${usedPrefix}procesobot_
@@ -189,9 +188,9 @@ let menu =`
 ┣ ↠🪄 _${usedPrefix}estilo *texto*_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
-┃ *SUBIR ESTADOS A GATABOT*
+┃ *SUBIR ESTADOS A PARAGUA BOT*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃ *¡Sube estados a la cuenta de GataBot!*
+┃ *¡Sube estados a la cuenta de Paragua Bot!*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ↠📸 _${usedPrefix}subirestado *texto / video|imagen*_
 ┣ ↠📸 _${usedPrefix}subirestado *texto / gif*_
