@@ -21,7 +21,15 @@ _________________________________________________
 *https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R*
 _________________________________________________
 
+*INSTAGRAM DE PROPIETARIO*
+https://www.instagram.com/matiass.zzz
 
+_________________________________________________
+
+*REPOSITORIO DEL BOT*
+
+
+_________________________________________________
 ⚠️ *Los Bots Oficiales son temporales en grupos, es preferible que sea Bot o instalar a Paragua - Bot* ⚠️
                             🇵🇾 𝑷𝑨𝑹𝑨𝑮𝑼𝑨 𝑩𝑶𝑻 🇵🇾                    
 `.trim()) 
