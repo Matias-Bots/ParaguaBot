@@ -102,7 +102,7 @@ y el Whatsapp que este usando. Lo aconsejable es máximo 45 grupos
 --------- 
 ###  PROPIETARIO 
  
-[![Matias](https://github.com/GataDios.png?size=100)](https://github.com/GataDios) 
+[![Matias](https://github.com/Matias-Bots.png?size=100)](https://github.com/Matias-Bots) 
  
 ### 🌟 AGRADECIMIENTOS
  
