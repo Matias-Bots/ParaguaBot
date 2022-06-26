@@ -1,8 +1,8 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/B8I8Ga3OlC9H4OWs7EqEOP' , '' , '' , '' , ''] // No tiene utilidad 
-global.channelYT = ['https://youtube.com/channel/UCqlwRHdZRZZpk4gpaoeH4_w'] // No tiene utilidad
-global.owner = ['595986731337' , '' , ''] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
-global.mods = ['595985958156' , ''] // No tiene utilidad
+global.linkGC = ['https://chat.whatsapp.com/JIRYr6hK0gw2PusdUlsG0R' , '' , '' , '' , ''] // No tiene utilidad 
+global.channelYT = [''] // No tiene utilidad
+global.owner = ['595985958156' , '' , ''] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.mods = ['595986731337' , ''] // No tiene utilidad
 global.prems = ['595985958156' , ''] // No tiene utilidad
 
 // Nota: Puedes contactarme si necesitas ayuda con algo al +595985958156 (Solo temas de la instalación)
@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Paragua Bot🇵🇾'
-global.author = 'Paragua'
+global.packname = 'Paragua - Bot'
+global.author = 'Matias'
 
 
 //global.wait = '*Esperé un momento..*'
